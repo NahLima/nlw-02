@@ -4,13 +4,13 @@
 <p align="center">Project developed during Rocketseat Next Level Weel #02 </p>
 
 # :art: Layouts
-## Web
-<p align="center">
+### Web
+<p align="left">
 <img src="./web/src/assets/images/capa-web.png" width="450" />
 <img src="./web/src/assets/images/proffy-web.png" width="400" />
 </p>
 
-## Mobile
+### Mobile
 <div>
 <img src="./web/src/assets/images/mobile-home.png" width="180" />
 <img src="./web/src/assets/images/preview-mobile.png" width="180" />
