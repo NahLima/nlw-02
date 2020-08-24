@@ -5,10 +5,10 @@
 
 # :art: Layouts
 ## Web
-<div>
-<img src="./web/src/assets/images/capa-web.png" width="400" />
+<p align="center">
+<img src="./web/src/assets/images/capa-web.png" width="450" />
 <img src="./web/src/assets/images/proffy-web.png" width="400" />
-</div>
+</p>
 
 ## Mobile
 <div>
@@ -32,7 +32,7 @@
     $ git clone https://github.com/kitkoshino/nlw-02.git
 ```
 
-## Run API
+### Run API
 -  Server folder
 
 ```bash
@@ -43,7 +43,7 @@
     $ npm start
 ```
 
-## Run API
+### Run Web Project
 -  Web folder
 
 ```bash
