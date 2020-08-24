@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./web/src/assets/images/logo.png" width="280" />
 </p>
-<p align="center">Project developed during Rocketseat Next Level Weel #02 </p>
+<p align="center">Project developed during Rocketseat Next Level Week #02 </p>
 
 # :art: Layouts
 ### Web
